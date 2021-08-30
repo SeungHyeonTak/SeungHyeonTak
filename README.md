@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I'm backend developer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungHyeonTak&show_icons=true&theme=radical)
 
 <!--
 **SeungHyeonTak/SeungHyeonTak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
