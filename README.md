@@ -1,6 +1,10 @@
 ### Hi there 👋
 - I'm backend developer.
 
+### Programing skills
+- Java
+- Spring
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungHyeonTak&show_icons=true&theme=radical)
 
 <!--
