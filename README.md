@@ -3,10 +3,14 @@
 
 ### Programing skills
 - Java
-- Spring
+- Python
+
+### Framework
+- Django
 
 ### IDEA
 - intelliJ
+- PyCharm
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungHyeonTak&show_icons=true&theme=radical)
 
