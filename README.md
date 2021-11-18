@@ -13,6 +13,10 @@
 - intelliJ
 - PyCharm
 
+### portfolio
+
+[https://eggplant-broccoli-78f.notion.site/e37f4ac40abf47ddb59468ba507e5a5c](https://eggplant-broccoli-78f.notion.site/e37f4ac40abf47ddb59468ba507e5a5c)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungHyeonTak&show_icons=true&theme=radical)
 
 <!--
