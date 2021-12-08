@@ -10,6 +10,9 @@
 - Django
 - Spring
 
+### DB
+- PostgreSQL
+
 ### IDEA
 - intelliJ
 - PyCharm
