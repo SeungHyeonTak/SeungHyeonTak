@@ -1,6 +1,4 @@
-### Hi there 👋
-- I'm backend developer.
-- 다재다능한 사람이 되자
+### Growth oriented backend developer 👋
 
 ### Programing skills
 - Java
