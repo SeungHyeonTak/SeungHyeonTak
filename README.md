@@ -15,6 +15,9 @@
 - intelliJ
 - PyCharm
 
+### DEV OPS
+- aws (EC2, RDS, S3)
+
 ### portfolio
 
 [https://eggplant-broccoli-78f.notion.site/e37f4ac40abf47ddb59468ba507e5a5c](https://eggplant-broccoli-78f.notion.site/e37f4ac40abf47ddb59468ba507e5a5c)
