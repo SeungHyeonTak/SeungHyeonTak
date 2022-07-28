@@ -17,6 +17,7 @@
 
 ### DEV OPS
 - aws (EC2, RDS, S3)
+- docker
 
 ### Etc.
 - jira
