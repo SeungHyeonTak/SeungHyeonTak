@@ -11,6 +11,7 @@
 ### DB
 
 - PostgreSQL
+- MySQL
 
 ### IDEA
 
