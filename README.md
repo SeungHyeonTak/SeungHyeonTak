@@ -7,6 +7,7 @@
 ### Backend
 
 - Django
+- Spring Boot
 
 ### DB
 
