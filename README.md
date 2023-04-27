@@ -6,13 +6,14 @@
 
 ### Backend
 
-- Django
-- Spring Boot
+- python / Django (DRF)
+- java / Spring Boot
 
 ### DB
 
 - PostgreSQL
 - MySQL
+- MongoDB
 
 ### IDEA
 
@@ -21,10 +22,13 @@
 
 ### DEV OPS
 
-- aws (EC2, RDS, S3)
+- AWS (EC2, RDS(Aurora), S3, Lambda)
 - docker
 
 ### Etc.
-- jira
+- Git / GitHub
+- Jira / Wiki Confluence
+- Slack
+- Sentry
 
 
