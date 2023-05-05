@@ -7,7 +7,7 @@
 ### Backend
 
 - python / Django (DRF)
-- java / Spring Boot
+- java
 
 ### DB
 
