@@ -28,6 +28,7 @@
 ### Etc.
 - Git / GitHub
 - Jira / Wiki Confluence
+- Celery
 - Slack
 - Sentry
 
