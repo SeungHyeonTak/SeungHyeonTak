@@ -5,31 +5,3 @@
 ## Stack
 
 ### Backend
-
-- python / Django (DRF)
-- java
-
-### DB
-
-- PostgreSQL
-- MySQL
-- MongoDB
-
-### IDEA
-
-- intelliJ
-- PyCharm
-
-### DEV OPS
-
-- AWS (EC2, RDS(Aurora), S3, Lambda)
-- docker
-
-### Etc.
-- Git / GitHub
-- Jira / Wiki Confluence
-- Celery
-- Slack
-- Sentry
-
-
