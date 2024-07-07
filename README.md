@@ -9,4 +9,7 @@
 - Correctionvitale, Backend Developer (2021-11 ~ 2023-03)
 - H&B Life, Backend Developer (2019-10 ~ 2021-07)
 
+### 💪 Skills
+<img src="https://img.shields.io/badge/spring boot-#6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+
 📫 : conficker77@gmail.com
